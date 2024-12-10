@@ -29,11 +29,8 @@ Sou um jovem desenvolvedor apaixonado por tecnologia, servidores de Minecraft! ð
 ## ðŸš€ Vamos Conectar?
 
 <p align="center">
-  <a href="https://discord.com" target="_blank">
+  <a href="[https://discord.com](https://discord.gg/bBXDq7bsmr)" target="_blank">
     <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
-  </a>
-  <a href="https://github.com/" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
 
