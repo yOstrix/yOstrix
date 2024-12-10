@@ -1,7 +1,7 @@
 <h1 align="center">👋 Olá, eu sou Halley!</h1>
 
 <p align="center">
-Sou um jovem desenvolvedor apaixonado por tecnologia, servidores de Minecraft e criatividade sem limites! 🚀
+Sou um jovem desenvolvedor apaixonado por tecnologia, servidores de Minecraft! 🚀
 </p>
 
 ---
