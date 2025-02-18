@@ -8,7 +8,7 @@ Sou um jovem desenvolvedor apaixonado por tecnologia, servidores de Minecraft! �
 
 ## 🧑‍💻 Sobre Mim
 
-- 🌱 **Aprendendo**: Java, HTML, CSS e sempre buscando novos desafios.
+- 🌱 **Aprendendo**: Java, JavaScript, HTML, CSS e sempre buscando novos desafios.
 - 🎮 **Especialidades**: Configuração de plugins, mods e desenvolvimento de servidores Minecraft.
 - 🎨 **Hobbies**: Design criativo, desenvolvimento de servidores de minecraft e exploração de ideias inovadoras.  
 
@@ -18,6 +18,7 @@ Sou um jovem desenvolvedor apaixonado por tecnologia, servidores de Minecraft! �
 
 <p align="center">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScripy-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
   <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
