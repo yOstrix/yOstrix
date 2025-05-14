@@ -49,25 +49,6 @@
 
 ---
 
-## 📂 Projetos
-
-**[Ostrix Community Server](ostrixcommunity.com.br)**: Um servidor da comunidade **OstrixCommunity**, um servidor Survival+ que contém uma variedade de sistemas incríveis
-
-✅ **Texturas e Itens Customizados** – Novos equipamentos, armas!  
-✅ **Suporte Multiplataforma** – Jogue no **PC, Xbox, PlayStation, Switch e Mobile** sem complicações!  
-✅ **McMMO** – Evolua suas habilidades como mineração, pesca e combate para se fortalecer!  
-✅ **Sistema de Economia e Leilões** – Compre e venda itens, participe de leilões e aumente sua riqueza!  
-✅ **Sistema de Proteção e Terrenos** – Garanta segurança para sua base com sistemas de claims!  
-✅ **Sistema de Clãs, Guerras e Diplomacia** – Forme alianças, lute entre clans!  
-✅ **Sistema de Votação e Recompensas** – Vote e receba chaves para abrir **caixas misteriosas** com prêmios incríveis!  
-✅ **Sistema de Bebidas Artesanais** – Fermente, destile e descubra novas receitas para criar bebidas únicas!  
-✅ **Casamentos** – Você pode planejar casamentos dentro do servidor, casando dentro do servidor, pode conter vantagens exclusivas!  
-✅ **Lojas Customizáveis e Mercados Públicos** – Crie sua própria loja e torne-se um comerciante renomado!  
-
-⚠️ **O servidor ainda está em desenvolvimento, mas estou ajustando cada detalhe para entregar a melhor experiência possível!**
-
----
-
 ## 📊 GitHub Stats
 
 <p align="center">
